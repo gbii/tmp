@@ -1,0 +1,2 @@
+# tmp
+Geçici bir dosya
