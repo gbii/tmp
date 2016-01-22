@@ -1,2 +1,2 @@
 # tmp
-Geçici bir dosya
+Geçici bir dizin
